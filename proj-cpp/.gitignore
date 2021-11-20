@@ -1,0 +1,9 @@
+### IDE ###
+/.idea/
+/.vscode/
+
+### conan ###
+/conan/
+
+### output ###
+/cmake-build-*/
